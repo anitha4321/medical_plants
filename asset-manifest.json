@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicinal_plants/static/css/main.fc3fe9ad.css",
+    "main.js": "/medicinal_plants/static/js/main.9ba16d65.js",
+    "index.html": "/medicinal_plants/index.html",
+    "main.fc3fe9ad.css.map": "/medicinal_plants/static/css/main.fc3fe9ad.css.map",
+    "main.9ba16d65.js.map": "/medicinal_plants/static/js/main.9ba16d65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3fe9ad.css",
+    "static/js/main.9ba16d65.js"
+  ]
+}
